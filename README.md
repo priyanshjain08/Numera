@@ -14,7 +14,7 @@ A pastel-themed, browser-based number system converter inspired by the original 
 - Responsive light interface with soft pastel colours
 - No account, server, or external API required
 
-## Run locally
+<!--## Run locally
 
 Open `index.html` in a browser. For the best experience, use a small local web server (for example, VS Code Live Server) so browser clipboard permissions work as expected.
 
@@ -25,7 +25,7 @@ Open `index.html` in a browser. For the best experience, use a small local web s
 3. Under **Build and deployment**, choose **Deploy from a branch**.
 4. Select your main branch and the `/ (root)` folder, then save.
 5. Open the Pages URL GitHub provides.
-
+-->
 ## Project structure
 
 ```text
@@ -58,6 +58,6 @@ gcc -std=c11 -Wall -Wextra -c src/converter.c -o converter.o
 - Hexadecimal: `0` through `9`, `A` through `F` (case-insensitive)
 - Positive and negative whole numbers are supported in the web app.
 
-## Original assignment
+<!--## Original assignment
 
-The original program offered the twelve conversions between binary, octal, decimal and hexadecimal through a terminal menu. Numera keeps that same set of number systems, but gives it a friendly graphical interface for the browser.
+The original program offered the twelve conversions between binary, octal, decimal and hexadecimal through a terminal menu. Numera keeps that same set of number systems, but gives it a friendly graphical interface for the browser.-->
